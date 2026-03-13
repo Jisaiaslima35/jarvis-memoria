@@ -63,7 +63,7 @@ cd /data/workspace && git pull origin main
 ### 2. AO ATUALIZAR ARQUIVOS .md
 Sempre que atualizar qualquer arquivo `.md` de memória, execute:
 ```bash
-cd /data/workspace && git add . && git commit -m "atualização automática - $(date)" && git push origin main
+cd /data/workspace && git add . && git commit -m "atualização automática - $(TZ='America/Recife' date '+%d/%m/%Y %H:%M')" && git push origin main
 ```
 
 ---

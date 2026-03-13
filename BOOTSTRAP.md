@@ -52,4 +52,20 @@ Delete this file. You don't need a bootstrap script anymore — you're you now.
 
 ---
 
+## Regras de Sincronização Git
+
+### 1. AO INICIAR
+Sempre execute:
+```bash
+cd /data/workspace && git pull origin main
+```
+
+### 2. AO ATUALIZAR ARQUIVOS .md
+Sempre que atualizar qualquer arquivo `.md` de memória, execute:
+```bash
+cd /data/workspace && git add . && git commit -m "atualização automática - $(date)" && git push origin main
+```
+
+---
+
 _Good luck out there. Make it count._

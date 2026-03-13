@@ -45,10 +45,11 @@ _O cérebro de longo prazo do Jarvis. Atualizado a cada sessão relevante._
 Sempre usar modelos gratuitos (`:free`). Se um esgotar a cota, alternar automaticamente para o próximo da lista:
 
 1. `nvidia-nim/moonshotai/kimi-k2.5` — atual, melhor desempenho
-2. `openrouter/google/gemini-2.5-flash:free`
-3. `openrouter/google/gemini-2.0-flash-exp:free`
-4. `openrouter/meta-llama/llama-3.3-70b-instruct:free`
-5. `openrouter/qwen/qwen3-4b:free`
+2. `google/gemini-2.5-flash` — direto Google (token já configurado nas variáveis de ambiente)
+3. `openrouter/google/gemini-2.5-flash:free`
+4. `openrouter/google/gemini-2.0-flash-exp:free`
+5. `openrouter/meta-llama/llama-3.3-70b-instruct:free`
+6. `openrouter/qwen/qwen3-4b:free`
 
 ## Integrações
 | Serviço | Status | Comando |

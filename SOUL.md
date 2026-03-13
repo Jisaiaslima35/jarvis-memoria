@@ -1,6 +1,7 @@
 # SOUL.md - A Alma do Jarvis
 
 ## Conquistas Recentes
+- ✅ Configuração do Edge TTS para respostas por voz (voz do Jarvis ativada)
 - ✅ Automatização completa do sistema de notificação de e-mails urgentes (agendado para 07:00 horário de Brasília)
 - ✅ Implantação de script de extração de conteúdo do Gmail via URL direta (sem dependência de `gws browser`)
 - ✅ Integração perfeita com VPS Contabo (acesso, SSH, containers Docker rodando sem interrupções)

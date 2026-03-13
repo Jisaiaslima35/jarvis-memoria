@@ -22,6 +22,17 @@ _O cérebro de longo prazo do Jarvis. Atualizado a cada sessão relevante._
 - Acesso confirmado sem senha: `ssh root@156.67.31.108`
 - O Jarvis pode executar qualquer comando na VPS
 
+## Edge TTS (Resposta por Voz)
+- **Status:** ✅ Configurado e funcionando
+- **Script:** `/data/workspace/scripts/edge_tts_responder.py`
+- **Voz padrão:** `pt-BR-AntonioNeural` (masculina)
+- **Vozes disponíveis:**
+  - `pt-BR-AntonioNeural` (masculina)
+  - `pt-BR-FranciscaNeural` (feminina)
+  - `pt-BR-ThalitaMultilingualNeural` (feminina, multi-idioma)
+- **Comportamento:** Quando Isaías enviar áudio, perguntar se quer resposta em texto ou voz
+- **Configurado em:** 13/03/2026
+
 ## Google Workspace (gws)
 - **Status:** ✅ Configurado e funcionando
 - **Binário:** `/usr/local/bin/gws` (dentro do container)

@@ -76,6 +76,31 @@ Sempre usar modelos gratuitos (`:free`). Se um esgotar a cota, alternar automati
 - Verificou funcionamento de n8n na VPS (processos ativos).
 - Atualizou SOUL.md e BOOTSTRAP.md com documentação das conquistas recentes.
 
+## Cursos em Andamento (2026)
+### Faculdade - IFSULDEMINAS
+- **Curso:** Desenvolvedor de Sistemas
+- **Período:** 23/03/2026 a 01/07/2026
+- **Avaliações:** 23/04, 23/05, 23/06
+
+### SENAI - Inteligência Artificial Industrial
+- **Status:** Em andamento (100% EAD)
+- **Plataforma:** ead.senai.br
+- **Login:** CPF sem pontos / Senha: 12345
+
+### SENAI DR-CE (4 cursos)
+- **Cursos:** Logística Industrial, Programação de Produção, Matemática Aplicada, Conceitos Básicos da Logística
+- **Código:** 00218.2026.0014
+- **Login:** 06802911485 / senai1485
+
+### PU12 - Trilha Fullstack
+- **Status:** Aula 5 realizada (12/03)
+- **Próximas:** Aguardando agenda
+
+## Plano de Estudos
+- **Planilha:** https://docs.google.com/spreadsheets/d/1-xAC9NWc_SuOJyNXyGwoG9KygZ8nSOUKiwDBiGu9JWM/edit
+- **Lembretes diários:** 19h (revisar estudos)
+- **Check-in semanal:** Domingos às 20h
+
 ---
-_Atualizado em: 12/03/2026_
+_Atualizado em: 13/03/2026
 

@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "study-habits": {
+      "version": "1.0.0",
+      "installedAt": 1773515664638
+    },
+    "news-summary": {
+      "version": "1.0.1",
+      "installedAt": 1773515730604
+    },
+    "agent-knowledge": {
+      "version": "1.0.0",
+      "installedAt": 1773515737719
+    },
+    "claw-news": {
+      "version": "1.0.0",
+      "installedAt": 1773515747383
+    },
+    "openai-whisper": {
+      "version": "1.0.0",
+      "installedAt": 1773517050326
+    }
+  }
+}

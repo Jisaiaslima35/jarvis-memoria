@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "skills": {
+    "whisper-tailnet-api": {
+      "version": "0.1.1",
+      "installedAt": 1773508082216
+    }
+  }
+}

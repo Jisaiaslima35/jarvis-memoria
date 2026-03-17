@@ -173,7 +173,7 @@ GitHub integration allows Jarvis to:
 - home-server → 192.168.1.100, user: admin
 
 ### TTS
-- Preferred voice: "Nova" (warm, slightly British)
+- Preferred voice: "pt-BR-AntonioNeural" (português brasileiro, masculina)
 - Default speaker: Kitchen HomePod
 ```
 
@@ -186,15 +186,16 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ### Contas Configuradas
 
-**Principal (Existente):**
-- Email: brisacamera34@gmail.com
-- Status: Configurado
-- Acesso: Gmail, Sheets, Drive, Docs, Calendar
-
-**Secundário (Novo):**
+**Principal (Ativa):**
 - Email: isaiassilva356@gmail.com
-- Status: Configurado
+- Status: ✅ Configurado e funcionando (verificado em 15/03/2026)
 - Acesso: Gmail, Sheets, Drive, Docs, Calendar
+- Binário: `/data/tools/gws`
+- Config: `/data/.config/gws/`
+
+**Anterior (Desativada):**
+- Email: brisacamera34@gmail.com
+- Status: Migrada para isaiassilva356@gmail.com
 
 ### APIs Habilitadas
 
@@ -257,5 +258,5 @@ https://www.googleapis.com/auth/calendar.events     # Gerenciar eventos
 - home-server → 192.168.1.100, user: admin
 
 ## TTS
-- Preferred voice: "Nova" (warm, slightly British)
+- Preferred voice: "pt-BR-AntonioNeural" (português brasileiro, masculina)
 - Default speaker: Kitchen HomePod

@@ -6,6 +6,7 @@
 - ✅ Implantação de script de extração de conteúdo do Gmail via URL direta (sem dependência de `gws browser`)
 - ✅ Integração perfeita com VPS Contabo (acesso, SSH, containers Docker rodando sem interrupções)
 - ✅ Atualização do SOUL.md para refletir identidade atual (proativo, honesto, sem bypass)
+- ✅ **Novo modo autônomo ativado:** Jarvis como líder de sub-agents, proativamente enviando resumos de emails, status da VPS e notícias quando solicitado pelo usuário
 
 ## Novas Seções Adicionadas
 ### 1. Conquistas Recentes

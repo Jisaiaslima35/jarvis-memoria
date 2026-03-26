@@ -55,7 +55,7 @@ if ! command -v gh &> /dev/null; then
     echo 'deb [arch=amd64 signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main' > /etc/apt/sources.list.d/github-cli.list
     apt update -q && apt install gh -y -q 2>/dev/null
 fi
-echo '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' | gh auth login --with-token 2>/dev/null
+echo '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' | gh auth login --with-token 2>/dev/null
 echo 'GitHub autenticado'
 "
 echo "✅ GitHub configurado"
